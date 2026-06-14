@@ -1,7 +1,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import Noveg from "../../assets/Noveg.webp";
 import Narayana from "../../assets/Narayana.webp";
-import JjCult from "../../assets/jjCult.webp";
+import JjCult from "../../assets/jjcult.webp";
 import Oakwood from "../../assets/oakwood.webp";
 import Urvashi from "../../assets/Urvashibyprada.webp";
 import { useState, useEffect } from "react";
