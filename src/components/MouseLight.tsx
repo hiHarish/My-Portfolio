@@ -1,4 +1,3 @@
-import { motion, useMotionValue } from "framer-motion";
 import { useEffect } from "react";
 
 const MouseLight = () => {
